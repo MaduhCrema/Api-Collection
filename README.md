@@ -1,2 +1,2 @@
 # Api-Collection
-### Studiyn Api- Collection in kotlin
+### Studying Api- Collection in kotlin
